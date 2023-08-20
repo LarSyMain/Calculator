@@ -1,0 +1,3 @@
+/home/larsymain/Рабочий стол/average c++ enjoyer/Calculator/cmake-build-debug/CMakeFiles/FRACT.dir
+/home/larsymain/Рабочий стол/average c++ enjoyer/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/larsymain/Рабочий стол/average c++ enjoyer/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
